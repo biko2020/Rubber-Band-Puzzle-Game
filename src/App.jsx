@@ -1,9 +1,5 @@
-import './App.css'
+import RubberBandGame from './RubberBandGame.jsx';
 
 export default function App() {
-  return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit
-    </main>
-  )
+  return <RubberBandGame />;
 }
